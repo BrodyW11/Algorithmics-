@@ -13,6 +13,8 @@ Can check if the queue is empty.
 A getCapacityLeft method which tells the user how many items can be added to the array before the array needs to be resized.
 
 
+
+
 Circular Array Ring : A data structure which remembers the last N entries.
 
 Has an iterator method that iterates backwards from the most recent element added to the ring.

@@ -1,4 +1,4 @@
-# Algorithmics-
+# Algorithmics
 
 Algorithm based module assignments I completed in my 2nd semester.
 
